@@ -1,1 +1,1 @@
-{"mappings":"","sources":["src/css/style.css"],"sourcesContent":[null],"names":[],"version":3,"file":"style.css.map","sourceRoot":"../../"}
+{"mappings":"AAAA","sources":["src/css/style.css"],"sourcesContent":["img {\r\n    max-width: 20%;\r\n}"],"names":[],"version":3,"file":"style.css.map","sourceRoot":"../../"}

@@ -1,0 +1,94 @@
+
+
+[
+	{
+		"race": "Léopard des neiges",
+		"nd": 35,
+		"image": "/assets/img/SAS138.webp",
+		"capaciteStats": "Attaque (Griffes/Morsure 0G2), Gaillardise +2",
+		"capaciteBien": "Chaleur naturelle, Odorat développé, Grimper, Sauter, Vitesse",
+		"capaciteMal": "Pas de prise, Vue faible",
+		"possede": "Apprise"
+	},
+	{
+		"race": "Pygargue",
+		"nd": 15,
+		"image": "/assets/img/pygargue.jpeg",
+		"capaciteStats": "Attaque (Serres 0G2), Gaillardise -2",
+		"capaciteBien": "Voler, Vitesse, Vue perçante",
+		"capaciteMal": "Pas de manipulation fine",
+		"possede": "Apprise"
+	},
+	{
+		"race": "Loutre",
+		"nd": 15,
+		"image": "/assets/img/maxresdefault.jpeg",
+		"capaciteStats": "Gaillardise -1",
+		"capaciteBien": "Nager, Odorat développé, Retenir son souffle",
+		"capaciteMal": "Aucune",
+		"possede": "Apprise"
+	},
+	{
+		"race": "Asproie",
+		"nd": 20,
+		"image": "/assets/img/d-rendering.jpeg",
+		"capaciteStats": "Attaque (Morsure 0G2), Esquive +10, Gaillardise -1",
+		"capaciteBien": "Voler",
+		"capaciteMal": "Pas de prise",
+		"possede": "Apprise"
+	},
+	{
+		"race": "Biche",
+		"nd": 35,
+		"image": "",
+		"capaciteStats": "Attaque (Cornes 0G2), Esquive +10, Dextérité +3",
+		"capaciteBien": "Sauter, Vitesse",
+		"capaciteMal": "Pas de prise",
+		"possede": "Non Apprise"
+	},
+	{
+		"race": "Chat",
+		"nd": 15,
+		"image": "",
+		"capaciteStats": "Dextérité +1, Gaillardise -2",
+		"capaciteBien": "Chute, Grimper, Ouïe fine, Silence, Vision nocturne",
+		"capaciteMal": "Pas de prise",
+		"possede": "Non Apprise"
+	},
+	{
+		"race": "Hibou",
+		"nd": 10,
+		"image": "",
+		"capaciteStats": "Dextérité -1, Gaillardise -1",
+		"capaciteBien": "Voler, Silence, Vision nocturne",
+		"capaciteMal": "Pas de manipulation fine",
+		"possede": "Non Apprise"
+	},
+	{
+		"race": "Loup",
+		"nd": 25,
+		"image": "",
+		"capaciteStats": "Attaque (Morsure 0G2), Gaillardise +1",
+		"capaciteBien": "Hurlement, Odorat développé, Ouïe fine, Silence",
+		"capaciteMal": "Pas de prise",
+		"possede": "Non Apprise"
+	},
+	{
+		"race": "Phénix",
+		"nd": 30,
+		"image": "",
+		"capaciteStats": "Attaque (Morsure 0G3), Esquive +10",
+		"capaciteBien": "Voler",
+		"capaciteMal": "Pas de manipulation fine",
+		"possede": "Non Apprise"
+	},
+	{
+		"race": "Homme",
+		"nd": 15,
+		"image": "",
+		"capaciteStats": "Voir fiche personnage",
+		"capaciteBien": "Voir fiche personnage",
+		"capaciteMal": "Voir fiche personnage",
+		"possede": "Apprise"
+	}
+]

@@ -10,7 +10,7 @@
     "build": "run-s clean prod:*",
     "prod:eleventy": "eleventy",
     "prod:parcel": "parcel build src/**/*.js src/**/*.css src/assets/img/*",
-    "clean": "rm -rf dist"
+    "clean": "rd /s /q dist"
   },
   "license": "ISC",
   "devDependencies": {

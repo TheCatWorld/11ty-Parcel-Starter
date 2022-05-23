@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/css/style.css"],"sourcesContent":["img {\r\n    max-width: 20%;\r\n}"],"names":[],"version":3,"file":"style.css.map","sourceRoot":"../../"}
+{"mappings":"ACAA","sources":["css/style.css","src/css/style.css"],"sourcesContent":["img {\n  max-width: 20%;\n}\n\n/*# sourceMappingURL=style.css.map */\n","img {\r\n    max-width: 20%;\r\n}"],"names":[],"version":3,"file":"style.css.map"}
